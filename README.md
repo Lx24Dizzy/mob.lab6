@@ -1,4 +1,3 @@
-# IZT_Database
-Работа с базой данных SQLite
+6 лаб
 
-![Screenshot](screen1.png)
+![Screenshot](image.PNG)
