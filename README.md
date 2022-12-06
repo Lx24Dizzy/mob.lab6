@@ -1,1 +1,4 @@
-# mob.lab6
+# IZT_Database
+Работа с базой данных SQLite
+
+![Screenshot](screen1.png)
